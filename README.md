@@ -1,2 +1,2 @@
 # Automatic-Certificate-Creator
-Automatic Certificate File Printing Executable Files Using Excel Data. Created with Python (+xlrd +xwld)
+Automatic Certificate File Spliting and Renaming Using Excel Data. Created with Python (+xlrd +xwld)
